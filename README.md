@@ -1,11 +1,8 @@
 # DIWALI_SALES_DAV
-Problem statement - To determine the purchasing behavior and preferences for Diwali sales based on gender, marital status, zone, and occupation 
-1. Project title 
-2. Abstract in 200 words 
-3. Objectives and outcomes 
-4. A diagram or a flowchart to design a solution for it 
 
 Project Title: Diwali Sales Analysis: Understanding Purchasing Behavior Across 
+
+Problem statement - To determine the purchasing behavior and preferences for Diwali sales based on gender, marital status, zone, and occupation 
 
 Abstract- 
 The project endeavours to dissect the intricacies of consumer behavior and preferences during the Diwali sales extravaganza, dissecting the nuances across diverse demographic segments including gender, marital status, geographical zones, and occupations. By meticulously scrutinizing sales data amassed from previous Diwali seasons, the study endeavors to unearth hidden patterns and discernible trends in consumer spending habits, thereby laying the groundwork for informed decision-making in marketing strategies and product assortments. Leveraging the power of data-driven insights derived from this comprehensive analysis, the project aspires to fine-tune sales tactics, bolster customer engagement initiatives, and optimize revenue generation endeavors during the festive fervor. Through a nuanced examination of purchasing behavior across various demographic strata, the project aims to facilitate the development of targeted marketing campaigns and tailored product promotions that resonate deeply with the unique preferences and inclinations of each demographic segment. Ultimately, the project seeks to foster heightened consumer satisfaction, bolstered sales revenues, and fortified brand loyalty, culminating in a resounding success story for retailers and marketers alike amidst the jubilant celebrations of the Diwali season.
