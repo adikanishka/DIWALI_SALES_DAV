@@ -2,10 +2,15 @@
 
 Project Title: Diwali Sales Analysis: Understanding Purchasing Behavior Across 
 
+Done by:
+A.Kanishka - 160122737003
+N.Varsha Reddy- 160122737018
+V.Anushree - 160122737028
+
 Problem statement - To determine the purchasing behavior and preferences for Diwali sales based on gender, marital status, zone, and occupation 
 
 Abstract- 
-The project endeavours to dissect the intricacies of consumer behavior and preferences during the Diwali sales extravaganza, dissecting the nuances across diverse demographic segments including gender, marital status, geographical zones, and occupations. By meticulously scrutinizing sales data amassed from previous Diwali seasons, the study endeavors to unearth hidden patterns and discernible trends in consumer spending habits, thereby laying the groundwork for informed decision-making in marketing strategies and product assortments. Leveraging the power of data-driven insights derived from this comprehensive analysis, the project aspires to fine-tune sales tactics, bolster customer engagement initiatives, and optimize revenue generation endeavors during the festive fervor. Through a nuanced examination of purchasing behavior across various demographic strata, the project aims to facilitate the development of targeted marketing campaigns and tailored product promotions that resonate deeply with the unique preferences and inclinations of each demographic segment. Ultimately, the project seeks to foster heightened consumer satisfaction, bolstered sales revenues, and fortified brand loyalty, culminating in a resounding success story for retailers and marketers alike amidst the jubilant celebrations of the Diwali season.
+This project aims to understand how people shop during Diwali, looking at different factors like gender, where they live, and what jobs they have. It will analyze sales data from past Diwalis to find patterns in how people spend money. The goal is to use this information to make smarter marketing plans and choose which products to sell. By using data to understand customers better, the project hopes to improve sales strategies, make customers happier, and make more money during Diwali. It wants to create ads and promotions that match what different groups of people like to buy. Overall, the project hopes to make both shoppers and sellers happy during Diwali by understanding what they want and need.
 
 
 Objective-
